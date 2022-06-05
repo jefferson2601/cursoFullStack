@@ -37,6 +37,7 @@ console.log(catalogo)
 let listaDeFilmes = ["batman begins", "batman o cavaleiro das trevas", "batman o cavaleiro das trevas ressurge"]
 function buscarFilme (indiceDoFilme){
   console.log(listaDeFilmes[1])
+  return listaDeFilmes
   
  
     
